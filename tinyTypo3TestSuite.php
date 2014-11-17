@@ -336,7 +336,7 @@ function printSeconds($time) {
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title><?php  echo $testName ?> | Tiny TYPO3 Test Suite v<?php echo $v ?></title>
-	<link rel="stylesheet" href="http://wiki.typo3.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.typo3vector&amp;only=styles&amp;skin=typo3vector&amp;*" />
+	<link rel="stylesheet" href="http://wiki.typo3.org/wiki/load.php?debug=false&lang=en&modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.typo3vector.styles&only=styles&skin=typo3vector&*" />
 	<style type="text/css">
 		h3 {
 			border-bottom: 1px solid #dedede;
